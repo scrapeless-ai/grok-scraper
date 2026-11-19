@@ -21,7 +21,7 @@
   </a>
 </p>
 
-Collect xAI Grok answers through the **Scrapeless LLM Chat Scraper** API, including the full response text, follow-up suggestions, web search results, X (Twitter) search results, and source footnotes, without reverse-engineering the Grok UI, maintaining browsers, or building your own anti-blocking stack.
+Collect xAI Grok answers through the **Scrapeless AI Scraper** API, including the full response text, follow-up suggestions, web search results, X (Twitter) search results, and source footnotes, without reverse-engineering the Grok UI, maintaining browsers, or building your own anti-blocking stack.
 
 Use this repo when you need a repeatable way to monitor Grok answers for GEO and AI search visibility, compare prompts across regions, audit cited sources and X search results, or pipe AI responses into analytics and automation workflows.
 
@@ -173,7 +173,7 @@ Pipe Grok answers into internal dashboards, knowledge-base QA systems, spreadshe
 
 | Benefit | What it means for your team |
 | ------- | --------------------------- |
-| One unified API | Query Grok through the same Scrapeless LLM Chat Scraper workflow used for other AI answer engines. |
+| One unified API | Query Grok through the same Scrapeless AI Scraper workflow used for other AI answer engines. |
 | Structured output | Receive the full response text, follow-up suggestions, web and X search results, footnotes, and prompt metadata in a developer-friendly response. |
 | Less maintenance | Avoid building browser automation, UI selectors, proxy rotation, retries, and anti-blocking logic yourself. |
 | Region-aware analysis | Use country inputs to compare localized AI answers and source citations. |
@@ -183,7 +183,7 @@ Pipe Grok answers into internal dashboards, knowledge-base QA systems, spreadshe
 
 ### What is Grok Scraper?
 
-Grok Scraper is a Scrapeless LLM Chat Scraper actor that sends prompts to xAI Grok and returns structured answer data, including the full response text, follow-up suggestions, web search results, X (Twitter) search results, and source footnotes.
+Grok Scraper is a Scrapeless AI Scraper actor that sends prompts to xAI Grok and returns structured answer data, including the full response text, follow-up suggestions, web search results, X (Twitter) search results, and source footnotes.
 
 ### Do I need to run a browser or proxy pool?
 
@@ -207,8 +207,8 @@ Make sure your use case complies with applicable laws, platform terms, privacy r
 
 ## Learn more
 
-- [Scrapeless LLM Chat Scraper documentation](https://docs.scrapeless.com/en/llm-chat-scraper/quickstart/introduction/)
-- [Supported LLM Chat Scraper actors](https://docs.scrapeless.com/en/llm-chat-scraper/quickstart/introduction/)
+- [Scrapeless AI Scraper documentation](https://docs.scrapeless.com/en/llm-chat-scraper/quickstart/introduction/)
+- [Supported AI Scraper actors](https://docs.scrapeless.com/en/llm-chat-scraper/quickstart/introduction/)
 - [Scrapeless dashboard](https://app.scrapeless.com/passport/login?redirect=/quick-start)
 - [Scrapeless website](https://www.scrapeless.com/en)
 
